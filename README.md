@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    💡Used at least once (WEB / ML / Game / Git)
+    💡Used at least once ( WEB / ML / Game / Git )
 </p>
 
 <p align="center" display="inline-block">
