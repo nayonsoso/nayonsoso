@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/c++-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
     <img src="https://img.shields.io/badge/source tree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
