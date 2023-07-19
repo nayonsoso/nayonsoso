@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nayonsoso/nayonsoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Once I've Used : (Js, Nodejs, express, 
 -->
+
+<p align="center">
+    반갑습니다! 백엔드를 공부하고 있는 나영서입니다👋
+    <br>
+</p>
+
 <br>
 <p align="center">
     ⚒️ Tech Stack ⚒️
@@ -35,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    💡Used at least once ( WEB / ML / Game / Git )
+    :clipboard: Once I've Used ( WEB / ML / Game / Git ) :clipboard:
 </p>
 
 <p align="center" display="inline-block">
@@ -64,22 +68,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  
-</p>
-
-
-### 🌱 I'm currently learning
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
-
-###  :clipboard: Once I've Used 
-
-##### Web BackEnd 
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
-- Machine Learning : 
--
--
-- 
- 
