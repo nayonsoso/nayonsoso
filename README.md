@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <br>
     사람은 자신이 사랑하는 일을 하며 살아야 한다 생각합니다.<br>
     소프트웨어는 인간의 삶을 더 효율적이게 만들어주어, <br>
     정말로 하고 싶은 일에 시간을 쓸 수 있게 해줍니다.<br>
